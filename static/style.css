@@ -1,0 +1,16 @@
+#headercolor {
+	background-color: yellowgreen;
+}
+
+/*.navbar .navbar-expand-lg .navbar-light .bg-light {
+	background-color: red;
+}*/
+
+#header-text {
+	color: white;
+	font-weight: 500;
+}
+
+.section-text {
+	font-size: 15px;
+}
